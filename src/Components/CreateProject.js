@@ -43,7 +43,7 @@ export default function CreateProject(){
                 
                 
                 
-                Create Student
+                Create Project
                 </NewProject>
 
         </form>

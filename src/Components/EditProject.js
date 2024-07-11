@@ -53,7 +53,7 @@ function EditProject(){
                         priorityValue = {initialValue.priority}
                         descValue = {initialValue.desc} 
                         membersValue = {initialValue.members}    >
-                            Update Student
+                            Update Project
             </NewProject>
         </form>
     )
